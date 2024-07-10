@@ -1,0 +1,4 @@
+#ignorar archivos csv y xlsx por su tamaño
+*.csv
+*.xlsx
+*.json
